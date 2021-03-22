@@ -1,7 +1,7 @@
 var express = require('express')
 var router = express.Router()
 
-var controller = require('../controllers/contoller.js')
+var controller = require('../controllers/contollerSho62.js')
 
 router.post('/add', controller.add)
 

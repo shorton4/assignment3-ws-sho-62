@@ -1,4 +1,3 @@
-
 //get cart
 //returns the shopping cart with relevant data
 app.get('/cartSho62', (req,res) =>{

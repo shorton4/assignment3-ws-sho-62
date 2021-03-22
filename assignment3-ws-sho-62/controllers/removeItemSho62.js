@@ -1,4 +1,3 @@
-//delete request
 //remove item from the cart
 //deletes an item from the cart
 app.delete('/cartSho62', (req, res) =>{
